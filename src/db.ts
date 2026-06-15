@@ -1,2 +1,2 @@
 // File: src/db.ts
-// Generated placeholder.
+// Database setup will go here.

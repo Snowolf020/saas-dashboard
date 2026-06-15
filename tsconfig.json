@@ -1,2 +1,6 @@
-// File: tsconfig.json
-// Generated placeholder.
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs"
+  }
+}

@@ -1,2 +1,2 @@
 // File: src/index.ts
-// Generated placeholder.
+// Application entry point.
