@@ -1,2 +1,2 @@
 // File: src/schema.ts
-// Generated placeholder.
+// Data schema definitions will go here.

@@ -1,2 +1,2 @@
 // File: src/routes.ts
-// Generated placeholder.
+// Route definitions will go here.
