@@ -1,1 +1,2 @@
-module.exports = {}
+// File: tailwind.config.js
+// Generated placeholder.
